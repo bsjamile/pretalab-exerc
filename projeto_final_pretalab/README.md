@@ -1,7 +1,7 @@
 # Projeto Final de Análise de Dados
 
 ## Contexto  
-Este projeto consiste na análise das **Infrações de Trânsito ocorridas nas rodovias fedederais da Bahia em 2023**.  
+Este projeto consiste na análise das **Infrações de Trânsito ocorridas nas rodovias federais da Bahia em 2023**.  
 
 ## Etapas do projeto:
 1. **Selecionar a Base de Dados** [Escolher e explorar a base de dados relevante ao tema.]
@@ -9,7 +9,7 @@ Este projeto consiste na análise das **Infrações de Trânsito ocorridas nas r
 3. **Realizar Análise Exploratória**  [Identificar correlações, padrões e outliers nos dados.]
 4. **Gerar Base Final**  [Limpar e estruturar os dados para a visualização.]
 5. **Criar Visualizações no Tableau**  [Desenvolver gráficos que sintetizem os principais insights.]
-6. **Preparar Arquivo PDF com análises**  [Apresentar o tema, dados e visualizações de forma clara e objetiva.]
+6. **Estruturar a Documentação em PDF**  [Detalhar os insights extraídos dos dados.]
 
 ---
 
@@ -21,7 +21,7 @@ Este projeto consiste na análise das **Infrações de Trânsito ocorridas nas r
 - **Arquivo Base Final:** [Infrações de Trânsito BA 2023](https://drive.google.com/file/d/1ZekmeioEv9i2RDwlCvx5KG1pNxEirWFr/view?usp=sharing)
 ## Apresentação:
 - **Visualizações - Tableu:** [Dashboards](https://public.tableau.com/app/profile/jamile.barroso/viz/infracoes_transito_BA_2023/Story1_1)
-- **Arquivo PDF com análises:** [Análise das Infrações de Trânsito BA 2023](https://www.canva.com/design/DAGTHrcxM6M/s9le-l1OvezlBSaFeGv3Cw/edit?utm_content=DAGTHrcxM6M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- **Documentação em PDF:** [Análise das Infrações de Trânsito BA 2023](https://github.com/bsjamile/pretalab-exerc/blob/main/projeto_final_pretalab/infracoes_transito_pretalab_BA_2023.pdf)
 
 A base de dados selecionada contém informações detalhadas sobre as infrações de trânsito ocorridas nas rodovias federais da Bahia no ano de 2023. 
 

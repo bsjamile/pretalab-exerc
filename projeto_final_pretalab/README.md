@@ -8,7 +8,7 @@ Este projeto consiste na análise das **Infrações de Trânsito ocorridas nas r
 2. **Definir Objetivo e Perguntas**  [Estabelecer o objetivo e formular perguntas-chave com base nas variáveis disponíveis.]
 3. **Realizar Análise Exploratória**  [Identificar correlações, padrões e outliers nos dados.]
 4. **Gerar Base Final**  [Limpar e estruturar os dados para a visualização.]
-5. **Criar Visualizações no Tableau**  [Desenvolver gráficos que sintetizem os principais insights.]
+5. **Criar Visualizações com a biblioteca Matplotlib/Seaborn**  [Desenvolver gráficos que sintetizem os principais insights.]
 6. **Estruturar a Documentação em PDF**  [Detalhar os insights extraídos dos dados.]
 
 ---
@@ -19,7 +19,8 @@ Este projeto consiste na análise das **Infrações de Trânsito ocorridas nas r
 ## Arquivos:
 - **Arquivos para download:** [Infrações de Trânsito 2023](https://drive.google.com/file/d/19ytlVs332DVxBgBbWUSFGBtgY46sx94b/view)
 - **Arquivo Base Final:** [Infrações de Trânsito BA 2023](https://drive.google.com/file/d/1ZekmeioEv9i2RDwlCvx5KG1pNxEirWFr/view?usp=sharing)
-## Apresentação:
+## DataViz:
+- **Visualizações - Matplotlib/Seaborn:** [Visualizações](https://github.com/bsjamile/on35-python-s17-s18-projeto-final/blob/main/material/projeto_infracoes-de-transito-BA-2023.ipynb)
 - **Visualizações - Tableu:** [Dashboards](https://public.tableau.com/app/profile/jamile.barroso/viz/infracoes_transito_BA_2023/Story1_1)
 - **Documentação em PDF:** [Análise das Infrações de Trânsito BA 2023](https://github.com/bsjamile/pretalab-exerc/blob/main/projeto_final_pretalab/infracoes_transito_pretalab_BA_2023.pdf)
 

@@ -1,1 +1,0 @@
-# pretalab-exerc
